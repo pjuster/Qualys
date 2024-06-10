@@ -1,7 +1,7 @@
 
 # change PASSWORD and USERNAME
 # change API URLS to the right instance
-# change TEST to the desired TAG name
+# change TEST to the desired Custom Attribute value name
 # script called using - while true; do ./Qualys-API-tag.sh >> output.txt ; sleep 600; done
 # first line calls to get the token and stores in a variable called token
 # second line calls the api query and uses the token for authorization
