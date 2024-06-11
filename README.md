@@ -14,4 +14,6 @@ Qualys-API-Business-app-import.sh - creates a business app that can then be assi
 
 Note: in order to add a business app to an asset, the business app needs to be created first, even if the asset has the correct app ID it won't be linked until the app has been created and the asset refreshed.
 
-Qualys-API-Tag multiple assets.ps1 - is an untested Windows powershell script that will assign a specific tag to a list of assets in an Excel file 
+Qualys-API-Tag multiple assets.ps1 - is an untested Windows powershell script that will assign a specific tag to a list of assets in an Excel file.
+
+Excel file needs column A to be asset name, column B to be the tag to be applied to the asset.
