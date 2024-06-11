@@ -1,6 +1,6 @@
 All scripts have been tested on a Mac in a basic terminal
 
-Qualys-API-tag-total.sh - outputs a count for the total number of assets with the specified tag.
+Qualys-API-tag-total.sh - outputs a count for the total number of assets with the specified tag.<cr>
 Qualys-API-CustomAttribute-total.sh - outputs a count for the total number of assets with the specified custom attributes.
 Qualys-API-Business-Information-import.sh - updates the business information for a single asset.
 Qualys-API-Business-app-import.sh - creates a business app that can then be assigned to assets.
