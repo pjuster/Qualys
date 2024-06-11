@@ -1,4 +1,8 @@
-All scripts have been tested on a Mac in a basic terminal
+All scripts have been tested on a Mac in a basic terminal and are supplied as is.
+
+Resources used
+https://www.qualys.com/documentation/#apis
+
 
 Qualys-API-tag-total.sh - outputs a count for the total number of assets with the specified tag.
 
