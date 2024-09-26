@@ -17,3 +17,5 @@ Note: in order to add a business app to an asset, the business app needs to be c
 Qualys-API-Tag multiple assets.ps1 - is an untested Windows powershell script that will assign a specific tag to a list of assets in an Excel file.
 
 Excel file needs column A to be asset name, column B to be the tag to be applied to the asset.
+
+**Caveats are this code is supplied As-Is and full testing is recommended before using in any production testing.**
