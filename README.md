@@ -18,4 +18,4 @@ Qualys-API-Tag multiple assets.ps1 - is an untested Windows powershell script th
 
 Excel file needs column A to be asset name, column B to be the tag to be applied to the asset.
 
-**Caveats are this code is supplied As-Is and full testing is recommended before using in any production testing.**
+**Caveats are this code is supplied As-Is and full testing is recommended before using in any environment.**
